@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\_17SaliLap\WeatherForecastApp\obj\Debug\net7.0\WeatherForecastApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\_17SaliLap\WeatherForecastApp\obj\Debug\net7.0\WeatherForecastApp.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\_17SaliLap\WeatherForecastApp\obj\Debug\net7.0\WeatherForecastApp.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\_17SaliLap\WeatherForecastApp\obj\Debug\net7.0\WeatherForecastApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\_17SaliLap\WeatherForecastApp\bin\Debug\net7.0\WeatherForecastApp.exe
+C:\Users\Lenovo\Desktop\_17SaliLap\WeatherForecastApp\bin\Debug\net7.0\WeatherForecastApp.deps.json
+C:\Users\Lenovo\Desktop\_17SaliLap\WeatherForecastApp\bin\Debug\net7.0\WeatherForecastApp.runtimeconfig.json
+C:\Users\Lenovo\Desktop\_17SaliLap\WeatherForecastApp\bin\Debug\net7.0\WeatherForecastApp.dll
+C:\Users\Lenovo\Desktop\_17SaliLap\WeatherForecastApp\bin\Debug\net7.0\WeatherForecastApp.pdb
+C:\Users\Lenovo\Desktop\_17SaliLap\WeatherForecastApp\obj\Debug\net7.0\WeatherForecastApp.dll
+C:\Users\Lenovo\Desktop\_17SaliLap\WeatherForecastApp\obj\Debug\net7.0\refint\WeatherForecastApp.dll
+C:\Users\Lenovo\Desktop\_17SaliLap\WeatherForecastApp\obj\Debug\net7.0\WeatherForecastApp.pdb
+C:\Users\Lenovo\Desktop\_17SaliLap\WeatherForecastApp\obj\Debug\net7.0\WeatherForecastApp.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\_17SaliLap\WeatherForecastApp\obj\Debug\net7.0\ref\WeatherForecastApp.dll
